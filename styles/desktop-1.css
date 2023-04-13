@@ -1,0 +1,161 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 167.1rem;
+}.desktop-1-CYY {
+  box-sizing: border-box;
+  padding: 13.1rem 0rem 27.3rem 10.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #621752 0%, rgba(106, 44, 92, 0.6521990895) 34.78%, rgba(64, 19, 54, 0.5099999905) 69.43%, rgba(38, 21, 34, 0) 100%);
+}
+.desktop-1-CYY .auto-group-chon-jwn {
+  margin: 0rem 59.7rem 15.5rem 0rem;
+  box-sizing: border-box;
+  padding: 5rem 6.9rem 1.2rem 6.9rem;
+  width: 92.2rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-1-CYY .auto-group-chon-jwn .product-designer-blessey-oKN {
+  max-width: 70.1rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.3175;
+  color: #000000;
+  font-family: Jacques Francois, 'Source Sans Pro';
+}
+.desktop-1-CYY .software-engineer-1-FBN {
+  margin: 0rem 0rem 18.8rem 19.3rem;
+  width: 58rem;
+  height: 44rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-CYY .auto-group-eagx-j6Y {
+  margin: 0rem 22.9rem 15.2rem 0rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-1-CYY .auto-group-eagx-j6Y .auto-group-u4gy-EZ6 {
+  margin: 0rem 21.4rem 0.3rem 0rem;
+  width: 34.4rem;
+  height: 39.9rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: IM FELL French Canon SC, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-6.png');
+  flex-shrink: 0;
+}
+.desktop-1-CYY .auto-group-eagx-j6Y .auto-group-mzvt-2zk {
+  margin-right: 11.4rem;
+  width: 34.7rem;
+  height: 39.9rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: IM FELL French Canon SC, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-3.png');
+  flex-shrink: 0;
+}
+.desktop-1-CYY .auto-group-eagx-j6Y .auto-group-emax-hb6 {
+  margin-top: 0.3rem;
+  box-sizing: border-box;
+  padding: 18rem 5.1rem 16.8rem 5.1rem;
+  width: 31.9rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: IM FELL French Canon SC, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-5.png');
+  flex-shrink: 0;
+}
+.desktop-1-CYY .auto-group-6g32-L8G {
+  margin-right: 83.4rem;
+  width: 67.5rem;
+  height: 12.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-CYY .auto-group-6g32-L8G .rectangle-7-G1v {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-CYY .auto-group-6g32-L8G .an-intro-about-myself-Nak {
+  width: 67.5rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #ffffff;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-CYY .auto-group-pdda-5EG {
+  margin-left: 15.3rem;
+  box-sizing: border-box;
+  padding: 14.1rem 24.4rem 11.9rem 18.7rem;
+  width: 141.4rem;
+  height: 88.1rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-8.png');
+  flex-shrink: 0;
+}
+.desktop-1-CYY .auto-group-pdda-5EG .iam-a-btech-student-at-crescent-institute-of-science-and-technology-and-a-software-developer-with-an-hands-on-experience-in-all-levels-of-testingincluding-performance-functional-integration-system-and-user-acceptance-aRv {
+  max-width: 98.3rem;
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #ffffff;
+  font-family: Iceland, 'Source Sans Pro';
+}
